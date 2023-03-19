@@ -20,6 +20,10 @@ int main()
     cout << "Entrer la valeur de b : " << endl;
     //Lire la valeur saisi par l'utilisateur et l'enregistrer dans la variable b
     cin >> b;
+
+     cout << "Entrer la valeur de c : " << endl;
+    //Lire la valeur saisi par l'utilisateur et l'enregistrer dans la variable b
+    cin >> c;
     cout << "hello";
     return 0;
 }
